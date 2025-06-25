@@ -115,7 +115,7 @@ AtliQ Hardwares struggled with:
 ## 🔗 Files & Resources
 
 - 📊 **Power BI Dashboard** (Hosted):  
-  [View Dashboard](https://app.powerbi.com/groups/me/reports/d6bf7fc3-bc50-4d5e-aa98-22dc0da8c93e/51f9e58ec3fa6a10cc71?experience=power-bi)
+  [View Dashboard](https://app.powerbi.com/groups/me/reports/4deb3d1f-8b37-47d6-9fe8-1d65d23ccfc2/51f9e58ec3fa6a10cc71?experience=power-bi&clientSideAuth=0)
 
   
 ---
